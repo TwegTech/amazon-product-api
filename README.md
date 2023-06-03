@@ -1,4 +1,4 @@
-# Amazon Product Api (Unofficial)
+# Amazon Product Api for Uneekli (Unofficial)
 
 ![NPM](https://img.shields.io/npm/l/amazon-buddy.svg?style=for-the-badge) ![npm](https://img.shields.io/npm/v/amazon-buddy.svg?style=for-the-badge)
 
