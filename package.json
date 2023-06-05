@@ -28,7 +28,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/drawrowfly/amazon-scraper.git"
+        "url": "git+https://github.com/TwegTech/amazon-product-api.git"
     },
     "keywords": [
         "amazon",
@@ -37,7 +37,7 @@
     "author": "drawrowfly",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/drawrowfly/amazon-scraper/issues"
+        "url": "https://github.com/TwegTech/amazon-product-api//issues"
     },
-    "homepage": "https://github.com/drawrowfly/amazon-scraper#readme"
+    "homepage": "https://github.com/TwegTech/amazon-product-api/#readme"
 }
